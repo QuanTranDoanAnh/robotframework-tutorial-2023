@@ -1,0 +1,8 @@
+{
+  "robot.pythonpath": [
+    "${workspaceFolder}",
+    "${workspaceFolder}/lib",
+    "${workspaceFolder}/resources",
+    "${workspaceFolder}/keywords"
+  ]
+}
